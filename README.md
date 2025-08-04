@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @marsGod000
 - 👀 I’m interested in games designing and web development.
-- 🌱 I’m pursuing a degree in Software Engineering to deepen my technical expertise in programming languages and technologies, including Java, JavaScript, HTML, CSS, C, and SQL. The relevant projects are stored in my GitHub.
-- In my previous work experience, I was a meticulous and efficient system administrator and project manager with the recent 4 years of experience specializing in implementing and optimizing business management systems.
-- My strong interpersonal and analytical skills, including problem-solving, critical thinking, attention to detail, teamwork, and cross-team communication, have consistently contributed to efficient project execution and the development of positive team relationships.
+- 🌱 I am a Software Engineering student with a solid foundation in programming languages and modern software technologies. Through relevant projects, I have honed both my technical skills and essential soft skills such as problem-solving, teamwork and cross-team communication. Additionally, I previously worked as a system administrator and project coordinator across diverse industries. This experience sharpened my analytical abilities and interpersonal skills and supported me to drive project deliverables, streamline processes, and foster positive team dynamics. I am now seeking a software-focused internship or a part-time job where I can contribute my growing technical expertise and collaborative mindset.
 
 <!---
 marsGod000/marsGod000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
